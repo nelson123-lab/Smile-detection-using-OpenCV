@@ -1,4 +1,4 @@
-# Smile-detection-using-OpenCV
+# Smile detection using OpenCV
 
-We are using the haarcascade which is an object detection algorithm to detect object in an image.
-We are using face haarcascade and smile cascade to detect the smile on faces.
+Haarcascade which is an object detection algorithm to detect object in an image is used here.
+Face haarcascade is used for detecting face and smile cascade is used to detect the smile on faces.
